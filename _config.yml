@@ -1,6 +1,6 @@
-title: "My theme trial"
-project: "hello_worlds"
-description: "build a site with the cayman theme"
+title: My theme trial
+project: hello_worlds
+description: build a site with the cayman theme
 markdown: kramdown
 
 remote_theme: pages-themes/cayman@v0.2.0
